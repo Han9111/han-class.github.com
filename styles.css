@@ -149,6 +149,23 @@ ul {
     background-position: 10px 20px, top left;
 }
 
+.boxseven {
+    width:350px;
+    height:150px;
+    margin:10px;
+    padding:25px;
+    border:5px solid rgb(55, 0, 255);
+    border-top: 3px solid brown;
+    border-bottom: 20px solid purple;
+    border-left: 7px solid yellow;
+    border-right: 2px solid pink ;
+    border-radius: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 2px;
+}
+
 
 
 
